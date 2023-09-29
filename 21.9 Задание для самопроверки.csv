@@ -1,8 +1,8 @@
 user_id,order_value,experiment_group
-53655558,593.21,control
-12594570,974.25,test
-4003331,1171.21,control
-67057598,2.52,control
+5365,593.21,control
+14570,974.25,test
+003331,1171.21,control
+057598,2.52,control
 5781283,1409.47,test
 5781283,105.81,test
 76621685,1056.66,control
